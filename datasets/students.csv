@@ -1,0 +1,13 @@
+Student_ID,Gender,StudyHours,AttendancePct,Passed
+S01,F,6,92,1
+S02,M,2,65,0
+S03,Female,8,88,1
+S04,Male,,75,0
+S05,F    ,10,101,1
+S06,m,0,55,0
+S07,Female,4,80,0
+S08,Male,12,95,1
+S09,male,38,90,1
+S10,F,3,70,0
+S11,MALE,7,85,1
+S12,f,5,60,0
